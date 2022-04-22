@@ -3,4 +3,10 @@ this is first file
 
 added extra data to see difference
 
+<<<<<<< HEAD
 modified
+=======
+added data in dev brance
+
+im ucafnajdhbas  code
+>>>>>>> master
